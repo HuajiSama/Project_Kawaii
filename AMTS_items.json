@@ -95,7 +95,7 @@
 	"looks_like": "kawaii_amts_pacsys",
     "name": {
       "str": "[AMTS] Compressed Matter Package (rags x30)",
-      "str_pl": "[AMTS] Compressed Matter Packages (scrap metal x30)"
+      "str_pl": "[AMTS] Compressed Matter Packages (rags x30)"
     },
     "category": "spare_parts",
     "description": "An A&M compressed matter package ready for dimensional transfer. It can be exchanged for points.",

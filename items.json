@@ -120,8 +120,8 @@
       {
         "pocket_type": "MAGAZINE_WELL",
         "rigid": true,
-        "flag_restriction": [ "BATTERY_LIGHT", "BATTERY_ULTRA_LIGHT" ],
-        "default_magazine": "light_battery_cell"
+        "flag_restriction": [ "BATTERY_LIGHT", "BATTERY_MEDIUM" ],
+        "default_magazine": "medium_battery_cell"
       }
     ],
     "warmth": 10,
@@ -157,7 +157,7 @@
         }
       ]
     },
-    "power_draw": 120000,
+    "power_draw": "1 kW",
     "revert_to": "kawaii_maid_dress_lss",
     "use_action": {
       "ammo_scale": 0,
@@ -233,7 +233,7 @@
     "weight": "120 g",
     "volume": "750 ml",
     "price": 5000,
-	"price_postapoc": 50,
+	  "price_postapoc": 50,
     "material": [ "plastic", "cotton" ],
     "material_thickness": 1,
     "symbol": "[",
@@ -244,8 +244,8 @@
   },
   {
     "id": "kawaii_raincoat_off",
-	"copy-from": "kawaii_raincoat",
-	"repairs_like": "kawaii_raincoat",
+	  "copy-from": "kawaii_raincoat",
+	  "repairs_like": "kawaii_raincoat",
     "type": "ARMOR",
     "name": { "str": "Cute Transparent Raincoat (hood off)" },
     "flags": [ "VARSIZE", "POCKETS", "WATERPROOF", "RAINPROOF", "OUTER", "FANCY", "SOFT" ],
@@ -478,9 +478,9 @@
     "type": "TOOL_ARMOR",
     "name": { "str": "Cute Thermal Maid headdress (on)" },
     "warmth": 80,
-    "power_draw": 7500,
+    "power_draw": "75 W",
     "revert_to": "kawaii_maid_hat_thermal_off",
-	"flags": [ "VARSIZE", "FANCY", "WATERPROOF", "RAINPROOF", "TRADER_AVOID" ],
+	  "flags": [ "VARSIZE", "FANCY", "WATERPROOF", "RAINPROOF", "TRADER_AVOID" ],
     "use_action": {
       "ammo_scale": 0,
       "type": "transform",
@@ -537,9 +537,9 @@
     "type": "TOOL_ARMOR",
     "name": { "str": "Cute Maid headdress LSS-PRO (warming)" },
     "warmth": 65,
-    "power_draw": 7500,
+    "power_draw": "75 W",
     "revert_to": "kawaii_maid_hat_lss",
-	"flags": [ "VARSIZE", "FANCY", "WATERPROOF", "RAINPROOF", "STURDY", "TRADER_AVOID" ],
+	  "flags": [ "VARSIZE", "FANCY", "WATERPROOF", "RAINPROOF", "STURDY", "TRADER_AVOID" ],
     "use_action": {
       "type": "transform",
       "msg": "You activate the headdress' cooling mode.",
@@ -557,9 +557,9 @@
     "type": "TOOL_ARMOR",
     "name": { "str": "Cute Maid headdress LSS-PRO (cooling)" },
     "warmth": 0,
-    "power_draw": 7500,
+    "power_draw": "75 W",
     "revert_to": "kawaii_maid_hat_lss",
-	"flags": [ "VARSIZE", "FANCY", "WATERPROOF", "RAINPROOF", "STURDY", "TRADER_AVOID" ],
+	  "flags": [ "VARSIZE", "FANCY", "WATERPROOF", "RAINPROOF", "STURDY", "TRADER_AVOID" ],
     "use_action": {
       "ammo_scale": 0,
       "type": "transform",
@@ -610,7 +610,7 @@
     "type": "TOOL_ARMOR",
     "name": { "str": "Cute High-Tech Glasses (NV)" },
     "flags": [ "WATER_FRIENDLY", "FANCY", "FIX_NEARSIGHT", "FIX_FARSIGHT", "GNV_EFFECT", "TRADER_AVOID" ],
-    "power_draw": 1000,
+    "power_draw": "10 W",
     "revert_to": "kawaii_hitec_megane",
     "use_action": {
       "type": "transform",
@@ -629,7 +629,7 @@
     "type": "TOOL_ARMOR",
     "name": { "str": "Cute High-Tech Glasses (IR)" },
     "flags": [ "WATER_FRIENDLY", "FANCY", "FIX_NEARSIGHT", "FIX_FARSIGHT", "IR_EFFECT", "TRADER_AVOID" ],
-    "power_draw": 1000,
+    "power_draw": "10 W",
     "revert_to": "kawaii_hitec_megane",
     "use_action": {
       "ammo_scale": 0,
