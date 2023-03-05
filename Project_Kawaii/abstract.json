@@ -2,8 +2,8 @@
   {
     "abstract": "kawaii_glasses_base",
     "type": "ARMOR",
-    "name": { "str": "Cute glasses base" },
     "repairs_like": "survivor_goggles",
+    "name": { "str": "Cute glasses base" },
     "weight": "30 g",
     "volume": "250 ml",
     "price": 27500,
@@ -13,7 +13,7 @@
     "environmental_protection": 1,
     "symbol": "[",
     "color": "cyan",
-	"use_action": { "type": "firestarter", "moves": 1000, "moves_slow": 25000, "need_sunlight": true },
+	  "use_action": { "type": "firestarter", "moves": 1000, "moves_slow": 25000, "need_sunlight": true },
     "flags": [ "WATER_FRIENDLY", "FIRESTARTER", "FANCY", "FIX_NEARSIGHT", "FIX_FARSIGHT", "SKINTIGHT" ],
     "armor": [ { "coverage": 75, "covers": [ "eyes" ], "rigid_layer_only": true } ]
   },
