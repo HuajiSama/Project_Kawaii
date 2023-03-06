@@ -58,6 +58,7 @@
   },
   {
     "id": "kawaii_amts_pac_t1_01",
+    "looks_like": "kawaii_amts_pacsys",
     "type": "GENERIC",
     "category": "spare_parts",
     "name": { "str": "[AMTS] Compressed Matter Package (logs x3)", "str_pl": "[AMTS] Compressed Matter Packages (logs x3)" },
@@ -67,11 +68,11 @@
     "price": "0 cent",
     "material": [ "steel" ],
     "symbol": "*",
-    "looks_like": "kawaii_amts_pacsys",
     "color": "light_gray"
   },
   {
     "id": "kawaii_amts_pac_t1_02",
+    "looks_like": "kawaii_amts_pacsys",
     "type": "GENERIC",
     "category": "spare_parts",
     "name": {
@@ -84,11 +85,11 @@
     "price": "0 cent",
     "material": [ "steel" ],
     "symbol": "*",
-    "looks_like": "kawaii_amts_pacsys",
     "color": "light_gray"
   },
   {
     "id": "kawaii_amts_pac_t1_03",
+    "looks_like": "kawaii_amts_pacsys",
     "type": "GENERIC",
     "category": "spare_parts",
     "name": {
@@ -101,11 +102,11 @@
     "price": "0 cent",
     "material": [ "steel" ],
     "symbol": "*",
-    "looks_like": "kawaii_amts_pacsys",
     "color": "light_gray"
   },
   {
     "id": "kawaii_amts_pac_t2_01",
+	  "looks_like": "kawaii_amts_pacsys",
     "type": "GENERIC",
     "category": "spare_parts",
     "name": { "str": "[AMTS] Compressed Matter Package (logs x6)", "str_pl": "[AMTS] Compressed Matter Packages (logs x6)" },
@@ -115,11 +116,11 @@
     "price": "0 cent",
     "material": [ "steel" ],
     "symbol": "*",
-    "color": "light_gray",
-	  "looks_like": "kawaii_amts_pacsys"
+    "color": "light_gray"
   },
   {
     "id": "kawaii_amts_pac_t2_02",
+	  "looks_like": "kawaii_amts_pacsys",
     "type": "GENERIC",
     "category": "spare_parts",
     "name": {
@@ -132,11 +133,11 @@
     "price": "0 cent",
     "material": [ "steel" ],
     "symbol": "*",
-    "color": "light_gray",
-	  "looks_like": "kawaii_amts_pacsys"
+    "color": "light_gray"
   },
   {
     "id": "kawaii_amts_pac_t2_03",
+	  "looks_like": "kawaii_amts_pacsys",
     "type": "GENERIC",
     "category": "spare_parts",
     "name": { "str": "[AMTS] Compressed Matter Package (rags x60)", "str_pl": "[AMTS] Compressed Matter Packages (rags x60)" },
@@ -146,9 +147,7 @@
     "price": "0 cent",
     "material": [ "steel" ],
     "symbol": "*",
-    "color": "light_gray",
-	  "looks_like": "kawaii_amts_pacsys"
-
+    "color": "light_gray"
   },
   {
     "id": "kawaii_UPS",
@@ -158,10 +157,10 @@
     "weight": "500 g",
     "volume": "2500 ml",
     "price": "0 cent",
-    "bashing": 9,
     "material": [ "kawaii_amsteel", "kawaii_amplastic" ],
     "symbol": ";",
     "color": "light_gray",
+    "bashing": 9,
     "ammo": "battery",
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "battery": 2000 } } ],
     "flags": [ "NO_UNLOAD", "RECHARGE" ]
@@ -174,10 +173,10 @@
     "weight": "600 g",
     "volume": "1 L",
     "price": "0 cent",
-    "bashing": 6,
     "material": [ "kawaii_amsteel", "kawaii_amplastic" ],
     "symbol": ";",
     "color": "brown",
+    "bashing": 6,
     "ammo": "lamp_oil",
     "sub": "hotplate",
     "pocket_data": [ { "pocket_type": "MAGAZINE", "watertight": true, "rigid": true, "ammo_restriction": { "lamp_oil": 600 } } ],
@@ -194,9 +193,9 @@
     "volume": "3 ml",
     "price": "0 cent",
     "material": [ "kawaii_amsteel", "kawaii_amplastic" ],
-    "reload_noise_volume": 10,
     "symbol": "(",
     "color": "light_blue",
+    "reload_noise_volume": 10,
     "flags": [ "MODE_BURST", "NEVER_JAMS" ],
     "skill": "rifle",
     "ammo": [ "kawaii_308AM" ],

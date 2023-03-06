@@ -1,9 +1,9 @@
 [
   {
     "id": "welder",
+    "copy-from": "welder",
     "type": "TOOL",
     "name": { "str": "arc welder" },
-    "copy-from": "welder",
     "extend": {
       "use_action": [
         {
