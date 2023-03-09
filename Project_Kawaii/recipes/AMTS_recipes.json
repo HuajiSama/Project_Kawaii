@@ -1,13 +1,13 @@
 [
   {
-    "type": "recipe_category",
     "id": "CC_AMTS",
+    "type": "recipe_category",
     "recipe_subcategories": [ "CSC_ALL", "CSC_AMTS_DEVICES", "CSC_AMTS_PACKAGING & SHIPPING", "CSC_AMTS_REDEEM POINTS" ]
   },
   {
+    "result": "kawaii_amts_reciver",
     "type": "recipe",
     "activity_level": "LIGHT_EXERCISE",
-    "result": "kawaii_amts_reciver",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_DEVICES",
     "skill_used": "electronics",
@@ -23,9 +23,9 @@
     "flags": [ "SECRET" ]
   },
   {
+    "result": "kawaii_amts_transmitter",
     "type": "recipe",
     "activity_level": "LIGHT_EXERCISE",
-    "result": "kawaii_amts_transmitter",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_DEVICES",
     "skill_used": "electronics",
@@ -42,8 +42,8 @@
   },
   {
     "result": "kawaii_amts_pac_t1_01",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
@@ -56,8 +56,8 @@
   },
   {
     "result": "kawaii_amts_pac_t1_02",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
@@ -70,8 +70,8 @@
   },
   {
     "result": "kawaii_amts_pac_t1_03",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
@@ -84,8 +84,8 @@
   },
   {
     "result": "kawaii_amts_pac_t2_01",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
@@ -98,8 +98,8 @@
   },
   {
     "result": "kawaii_amts_pac_t2_02",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
@@ -112,8 +112,8 @@
   },
   {
     "result": "kawaii_amts_pac_t2_03",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
@@ -126,8 +126,8 @@
   },
   {
     "result": "kawaii_amts_point",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
@@ -142,8 +142,8 @@
   },
   {
     "result": "kawaii_amts_pacsys",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
@@ -157,10 +157,10 @@
   },
   {
     "result": "kawaii_amts_point",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
-    "category": "CC_AMTS",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "using_packaging_system",
+    "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
     "time": 1000,
@@ -174,10 +174,10 @@
   },
   {
     "result": "kawaii_amts_point",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
-    "category": "CC_AMTS",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "using_packaging_system_tier_2",
+    "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_PACKAGING & SHIPPING",
     "skill_used": "fabrication",
     "time": 1000,
@@ -191,8 +191,8 @@
   },
   {
     "result": "bottle_plastic_small",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -207,8 +207,8 @@
   },
   {
     "result": "bottle_plastic",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -223,8 +223,8 @@
   },
   {
     "result": "detergent",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -239,8 +239,8 @@
   },
   {
     "result": "jar_glass",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -255,8 +255,8 @@
   },
   {
     "result": "kawaii_bottle_2l",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -271,8 +271,8 @@
   },
   {
     "result": "kawaii_jerrycan_10l",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -287,8 +287,8 @@
   },
   {
     "result": "kawaii_jerrycan_20l",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -303,8 +303,8 @@
   },
   {
     "result": "lighter",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -319,8 +319,8 @@
   },
   {
     "result": "emer_blanket",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -335,8 +335,8 @@
   },
   {
     "result": "picklocks",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -351,8 +351,8 @@
   },
   {
     "result": "nail",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -367,8 +367,8 @@
   },
   {
     "result": "duct_tape",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -383,8 +383,8 @@
   },
   {
     "result": "small_storage_battery",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -399,8 +399,8 @@
   },
   {
     "result": "battery",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -415,8 +415,8 @@
   },
   {
     "result": "toolbox_empty",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -431,8 +431,8 @@
   },
   {
     "result": "welder",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -447,8 +447,8 @@
   },
   {
     "result": "soldering_iron",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -463,8 +463,8 @@
   },
   {
     "result": "solder_wire",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -479,8 +479,8 @@
   },
   {
     "result": "gunpowder",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -495,8 +495,8 @@
   },
   {
     "result": "copper",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -511,8 +511,8 @@
   },
   {
     "result": "30gal_drum",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -527,8 +527,8 @@
   },
   {
     "result": "smokebomb",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -543,8 +543,8 @@
   },
   {
     "result": "flashbang",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -559,8 +559,8 @@
   },
   {
     "result": "EMPbomb",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -575,8 +575,8 @@
   },
   {
     "result": "generator_7500w",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -591,8 +591,8 @@
   },
   {
     "result": "battery_ups",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -607,8 +607,8 @@
   },
   {
     "result": "kawaii_portable_kitchen",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -623,8 +623,8 @@
   },
   {
     "result": "e_tool",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -639,8 +639,8 @@
   },
   {
     "result": "medium_storage_battery",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -655,8 +655,8 @@
   },
   {
     "result": "atomic_lamp",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -671,8 +671,8 @@
   },
   {
     "result": "disinfectant",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -687,8 +687,8 @@
   },
   {
     "result": "bandages",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -703,8 +703,8 @@
   },
   {
     "result": "bio_tools",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -719,8 +719,8 @@
   },
   {
     "result": "solar_panel_v2",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -735,8 +735,8 @@
   },
   {
     "result": "large_repairkit",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -751,8 +751,8 @@
   },
   {
     "result": "aspirin",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -767,8 +767,8 @@
   },
   {
     "result": "bio_power_storage_mkII",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -783,8 +783,8 @@
   },
   {
     "result": "omnicamera",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -799,8 +799,8 @@
   },
   {
     "result": "headlight_reinforced",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -815,8 +815,8 @@
   },
   {
     "result": "storage_battery",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -831,8 +831,8 @@
   },
   {
     "result": "solar_panel_v3",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -847,8 +847,8 @@
   },
   {
     "result": "bio_probability_travel",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -863,8 +863,8 @@
   },
   {
     "result": "bio_speed",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -879,8 +879,8 @@
   },
   {
     "result": "plut_cell",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -895,8 +895,8 @@
   },
   {
     "result": "bag_plastic",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -911,8 +911,8 @@
   },
   {
     "result": "2x4",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -927,8 +927,8 @@
   },
   {
     "result": "plastic_chunk",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -943,8 +943,8 @@
   },
   {
     "result": "leather",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -959,8 +959,8 @@
   },
   {
     "result": "rag",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -975,8 +975,8 @@
   },
   {
     "result": "thread",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -991,8 +991,8 @@
   },
   {
     "result": "scrap",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1007,8 +1007,8 @@
   },
   {
     "result": "sheet_kevlar_layered",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1023,8 +1023,8 @@
   },
   {
     "result": "nomex",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1039,8 +1039,8 @@
   },
   {
     "result": "kawaii_arrow_ribbon",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1055,8 +1055,8 @@
   },
   {
     "result": "kawaii_crowbar_lance",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1071,8 +1071,8 @@
   },
   {
     "result": "kawaii_glass_bow",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1087,8 +1087,8 @@
   },
   {
     "result": "kawaii_secretpouch",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1103,8 +1103,8 @@
   },
   {
     "result": "kawaii_maid_hat_thermal_off",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1119,8 +1119,8 @@
   },
   {
     "result": "kawaii_maid_dress_ex",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1135,8 +1135,8 @@
   },
   {
     "result": "kawaii_arrow_feather",
-    "activity_level": "NO_EXERCISE",
     "type": "recipe",
+    "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1151,8 +1151,8 @@
   },
   {
     "result": "kawaii_leila",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1167,8 +1167,8 @@
   },
   {
     "result": "kawaii_shelia_off",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1183,8 +1183,8 @@
   },
   {
     "result": "kawaii_rita_and_rosa",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1199,8 +1199,8 @@
   },
   {
     "result": "kawaii_crystal_td",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1215,8 +1215,8 @@
   },
   {
     "result": "kawaii_maid_hat_lss",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1231,8 +1231,8 @@
   },
   {
     "result": "kawaii_maid_dress_lss",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1247,8 +1247,8 @@
   },
   {
     "result": "kawaii_boots_hi",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1263,8 +1263,8 @@
   },
   {
     "result": "kawaii_shoes_hi",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1279,8 +1279,8 @@
   },
   {
     "result": "kawaii_death_scythe",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1295,8 +1295,8 @@
   },
   {
     "result": "kawaii_arrow_little_mary",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1311,8 +1311,8 @@
   },
   {
     "result": "kawaii_book_pacsys_tier2",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
@@ -1327,8 +1327,8 @@
   },
   {
     "result": "kawaii_book_pacsys_tier3",
-    "activity_level": "LIGHT_EXERCISE",
     "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
     "category": "CC_AMTS",
     "subcategory": "CSC_AMTS_REDEEM POINTS",
