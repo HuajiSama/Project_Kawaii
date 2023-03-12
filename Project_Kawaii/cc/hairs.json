@@ -22,8 +22,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"flags": [ "hair_blond" ],
-	"types": [ "hair_style" ]
+    "flags": [ "hair_blond" ],
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -48,8 +48,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"flags": [ "hair_red" ],
-	"types": [ "hair_style" ]
+    "flags": [ "hair_red" ],
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -74,8 +74,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"flags": [ "hair_brown" ],
-	"types": [ "hair_style" ]
+    "flags": [ "hair_brown" ],
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -100,8 +100,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"flags": [ "hair_black" ],
-	"types": [ "hair_style" ]
+    "flags": [ "hair_black" ],
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -126,8 +126,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"flags": [ "hair_white" ],
-	"types": [ "hair_style" ]
+    "flags": [ "hair_white" ],
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -152,8 +152,8 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"flags": [ "hair_gray" ],
-	"types": [ "hair_style" ]
+    "flags": [ "hair_gray" ],
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -178,7 +178,7 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"types": [ "hair_style" ]
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -203,7 +203,7 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"types": [ "hair_style" ]
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -228,7 +228,7 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"types": [ "hair_style" ]
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -253,7 +253,7 @@
       "hair1aquajp",
       "hair1purplejp"
     ],
-	"types": [ "hair_style" ]
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -278,7 +278,7 @@
       "hair1greenjp",
       "hair1purplejp"
     ],
-	"types": [ "hair_style" ]
+    "types": [ "hair_style" ]
   },
   {
     "type": "mutation",
@@ -303,6 +303,6 @@
       "hair1greenjp",
       "hair1aquajp"
     ],
-	"types": [ "hair_style" ]
+    "types": [ "hair_style" ]
   }
 ]

@@ -782,7 +782,7 @@
     "volume": "2450 ml",
     "weight": "1044 g",
     "longest_side": "60 cm",
-	  "price_postapoc": 250,
+    "price_postapoc": 250,
     "material": [ "steel" ],
     "symbol": "!",
     "color": "light_gray",
