@@ -238,7 +238,7 @@
     "flags": [ "SECRET" ]
   },
   {
-    "result": "jar_glass",
+    "result": "jar_glass_sealed",
     "type": "recipe",
     "activity_level": "NO_EXERCISE",
     "id_suffix": "kawaii_amts",
@@ -718,7 +718,7 @@
     "flags": [ "SECRET" ]
   },
   {
-    "result": "solar_panel_v2",
+    "result": "solar_panel",
     "type": "recipe",
     "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
@@ -830,7 +830,7 @@
     "flags": [ "SECRET" ]
   },
   {
-    "result": "solar_panel_v3",
+    "result": "solar_panel_v2",
     "type": "recipe",
     "activity_level": "LIGHT_EXERCISE",
     "id_suffix": "kawaii_amts",
