@@ -439,11 +439,6 @@ msgid "Cute pale skin"
 msgstr ""
 
 #. ~ Description of mutation "Cute pale skin"
-#. ~ Description of mutation "Cute lightale skin"
-#. ~ Description of mutation "Cute medium skin"
-#. ~ Description of mutation "Cute tan skin"
-#. ~ Description of mutation "Cute dark skin"
-#. ~ Description of mutation "Cute pink skin"
 #: mods\Project_Kawaii\cc\mutations.json
 msgid "Your natural skin color is (or was) rather pale."
 msgstr ""
@@ -453,9 +448,19 @@ msgstr ""
 msgid "Cute lightale skin"
 msgstr ""
 
+#. ~ Description of mutation "Cute lightale skin"
+#: mods\Project_Kawaii\cc\mutations.json
+msgid "Your natural skin color is (or was) rather lightale."
+msgstr ""
+
 #. ~ Mutation name
 #: mods\Project_Kawaii\cc\mutations.json
 msgid "Cute medium skin"
+msgstr ""
+
+#. ~ Description of mutation "Cute medium skin"
+#: mods\Project_Kawaii\cc\mutations.json
+msgid "Your natural skin color is (or was) rather medium."
 msgstr ""
 
 #. ~ Mutation name
@@ -463,14 +468,29 @@ msgstr ""
 msgid "Cute tan skin"
 msgstr ""
 
+#. ~ Description of mutation "Cute tan skin"
+#: mods\Project_Kawaii\cc\mutations.json
+msgid "Your natural skin color is (or was) rather tan."
+msgstr ""
+
 #. ~ Mutation name
 #: mods\Project_Kawaii\cc\mutations.json
 msgid "Cute dark skin"
 msgstr ""
 
+#. ~ Description of mutation "Cute pink skin"
+#: mods\Project_Kawaii\cc\mutations.json
+msgid "Your natural skin color is (or was) rather dark."
+msgstr ""
+
 #. ~ Mutation name
 #: mods\Project_Kawaii\cc\mutations.json
 msgid "Cute pink skin"
+msgstr ""
+
+#. ~ Description of mutation "Cute pink skin"
+#: mods\Project_Kawaii\cc\mutations.json
+msgid "Your natural skin color is (or was) rather pink."
 msgstr ""
 
 #. ~ Item name
