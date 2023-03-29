@@ -2044,7 +2044,7 @@ msgstr[1] "女仆高跟靴"
 msgid ""
 "Pure white boots that only chosen maids are allowed to wear. They give the "
 "wearer a feeling of majesty."
-msgstr "只有经过挑选的女仆才被允许穿的纯白高跟靴。它们给穿戴者一种威严的感觉。"
+msgstr "只有经过挑选的女仆才允许穿的纯白高跟靴。它们给穿戴者一种威严的感觉。"
 
 #. ~ Item name
 #: mods\Project_Kawaii\items\armor.json
@@ -2058,7 +2058,7 @@ msgstr[1] "女仆高跟鞋"
 msgid ""
 "Pure white heels that only chosen maids are allowed to wear. They give the "
 "wearer a feeling of majesty."
-msgstr "只有经过挑选的女仆才允许穿纯白高跟鞋。它们给穿戴者一种威严的感觉。"
+msgstr "只有经过挑选的女仆才允许穿的纯白高跟鞋。它们给穿戴者一种威严的感觉。"
 
 #. ~ Item name
 #: mods\Project_Kawaii\items\armor.json
