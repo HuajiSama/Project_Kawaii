@@ -869,6 +869,7 @@
   },
   {
     "id": "kawaii_wedding_veil_a",
+    "copy-from": "veil_wedding",
     "type": "ARMOR",
     "name": { "str": "Cute Wedding Veil" },
     "description": "A beautiful but simple wedding veil.",
@@ -876,12 +877,7 @@
     "volume": "250 ml",
     "price": 9500,
     "price_postapoc": 50,
-    "material": [ "cotton" ],
-    "material_thickness": 1,
-    "symbol": "[",
-    "color": "white",
     "warmth": 15,
-    "flags": [ "VARSIZE", "FANCY" ],
     "armor": [ { "encumbrance": 5, "coverage": 70, "covers": [ "head" ] } ]
   },
   {
