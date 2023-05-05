@@ -599,7 +599,7 @@
     "symbol": "[",
     "color": "white",
     "to_hit": -1,
-    "bashing": 10,
+    "melee_damage": { "bash": 10 },
     "environmental_protection": 3,
     "warmth": 20,
     "flags": [ "VARSIZE", "FANCY", "WATERPROOF", "RAINPROOF", "STURDY" ],

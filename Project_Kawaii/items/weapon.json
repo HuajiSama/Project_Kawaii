@@ -26,7 +26,7 @@
     "loudness": 8,
     "skill": "archery",
     "ammo": [ "arrow" ],
-    "bashing": 6,
+    "melee_damage": { "bash": 6 },
     "armor_data": {
       "armor": [
         {
@@ -76,7 +76,7 @@
     "skill": "archery",
     "min_strength": 3,
     "ammo": [ "arrow" ],
-    "bashing": 8,
+    "melee_damage": { "bash": 8 },
     "armor_data": {
       "armor": [
         {
@@ -126,7 +126,7 @@
     "skill": "archery",
     "min_strength": 4,
     "ammo": [ "arrow" ],
-    "bashing": 11,
+    "melee_damage": { "bash": 11 },
     "armor_data": {
       "armor": [
         {
@@ -180,7 +180,7 @@
     "skill": "archery",
     "min_strength": 4,
     "ammo": [ "arrow" ],
-    "bashing": 15,
+    "melee_damage": { "bash": 15 },
     "armor_data": {
       "armor": [
         {
@@ -244,8 +244,7 @@
     "techniques": [ "WBLOCK_2", "DEF_DISARM" ],
     "min_strength": 6,
     "ammo": [ "arrow" ],
-    "bashing": 35,
-    "cutting": 15,
+    "melee_damage": { "bash": 35, "cut": 15 },
     "armor_data": {
       "armor": [
         {
@@ -283,8 +282,7 @@
     "flags": [ "BELTED", "FANCY" ],
     "techniques": [ "WBLOCK_2", "DEF_DISARM" ],
     "min_strength": 99,
-    "bashing": 15,
-    "cutting": 35,
+    "melee_damage": { "bash": 15, "cut": 35 },
     "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "arrow": 1 } } ],
     "to_hit": 5,
     "weapon_category": [ "MEDIUM_SWORDS", "FENCING_WEAPONRY" ],
@@ -344,7 +342,7 @@
     "skill": "archery",
     "min_strength": 5,
     "ammo": [ "arrow" ],
-    "bashing": 15,
+    "melee_damage": { "bash": 15 },
     "armor_data": {
       "armor": [
         {
@@ -413,7 +411,7 @@
     "skill": "archery",
     "min_strength": 5,
     "ammo": [ "arrow" ],
-    "bashing": 15,
+    "melee_damage": { "bash": 15 },
     "armor_data": {
       "armor": [
         {
@@ -473,7 +471,7 @@
     "skill": "archery",
     "min_strength": 7,
     "ammo": [ "arrow" ],
-    "bashing": 10,
+    "melee_damage": { "bash": 10 },
     "to_hit": 3,
     "armor_data": {
       "armor": [
@@ -524,7 +522,7 @@
     "skill": "archery",
     "min_strength": 3,
     "ammo": [ "arrow" ],
-    "bashing": 1,
+    "melee_damage": { "bash": 1 },
     "to_hit": 1,
     "armor_data": {
       "armor": [
@@ -572,8 +570,7 @@
     "color": "light_gray",
     "flags": [ "DURABLE_MELEE", "REACH_ATTACK", "NONCONDUCTIVE" ],
     "techniques": [ "WBLOCK_2", "RAPID" ],
-    "bashing": 10,
-    "cutting": 35,
+    "melee_damage": { "bash": 10, "cut": 35 },
     "to_hit": 1,
     "weapon_category": [ "LONG_SWORDS", "FENCING_WEAPONRY" ],
     "use_action": {
@@ -599,8 +596,7 @@
     "color": "light_gray",
     "flags": [ "DURABLE_MELEE", "REACH_ATTACK", "NONCONDUCTIVE" ],
     "techniques": [ "WIDE", "SWEEP" ],
-    "bashing": 10,
-    "cutting": 40,
+    "melee_damage": { "bash": 10, "cut": 40 },
     "to_hit": 3,
     "weapon_category": [ "LONG_SWORDS", "FENCING_WEAPONRY" ],
     "use_action": {
@@ -626,8 +622,7 @@
     "color": "light_gray",
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE" ],
     "techniques": [ "WBLOCK_2", "RAPID" ],
-    "bashing": 2,
-    "cutting": 35,
+    "melee_damage": { "bash": 2, "cut": 35 },
     "to_hit": 3,
     "weapon_category": [ "KNIVES" ],
     "use_action": {
@@ -653,8 +648,7 @@
     "color": "light_gray",
     "flags": [ "DURABLE_MELEE", "REACH_ATTACK", "NONCONDUCTIVE" ],
     "techniques": [ "WBLOCK_1", "IMPALE" ],
-    "bashing": 5,
-    "cutting": 25,
+    "melee_damage": { "bash": 5, "cut": 25 },
     "to_hit": 3,
     "weapon_category": [ "POLEARMS", "SPEARS" ],
     "use_action": {
@@ -680,8 +674,7 @@
     "color": "light_gray",
     "flags": [ "REACH_ATTACK", "NONCONDUCTIVE" ],
     "techniques": [ "WBLOCK_1", "IMPALE" ],
-    "bashing": 15,
-    "cutting": 100,
+    "melee_damage": { "bash": 15, "cut": 100 },
     "to_hit": 3,
     "weapon_category": [ "POLEARMS", "SPEARS" ]
   },
@@ -697,8 +690,7 @@
     "symbol": "/",
     "color": "light_gray",
     "flags": [ "SPEAR", "REACH_ATTACK", "SHEATH_SPEAR" ],
-    "bashing": 5,
-    "cutting": 9,
+    "melee_damage": { "bash": 5, "cut": 9 },
     "weapon_category": [ "POLEARMS", "SPEARS" ]
   },
   {
@@ -714,8 +706,7 @@
     "color": "light_gray",
     "flags": [ "DURABLE_MELEE", "SPEAR", "REACH_ATTACK", "NONCONDUCTIVE", "SHEATH_SPEAR" ],
     "techniques": [ "WBLOCK_1" ],
-    "bashing": 5,
-    "cutting": 19,
+    "melee_damage": { "bash": 5, "cut": 19 },
     "weapon_category": [ "POLEARMS", "SPEARS" ]
   },
   {
@@ -731,8 +722,7 @@
     "color": "light_gray",
     "flags": [ "DURABLE_MELEE", "SPEAR", "REACH_ATTACK", "NONCONDUCTIVE", "SHEATH_SPEAR", "REACH3" ],
     "techniques": [ "WBLOCK_2", "IMPALE" ],
-    "bashing": 10,
-    "cutting": 35,
+    "melee_damage": { "bash": 10, "cut": 35 },
     "to_hit": 3,
     "weapon_category": [ "POLEARMS", "SPEARS" ]
   },
@@ -750,8 +740,7 @@
     "color": "light_gray",
     "flags": [ "DURABLE_MELEE", "REACH_ATTACK", "REACH3", "NONCONDUCTIVE" ],
     "techniques": [ "WIDE", "SWEEP" ],
-    "bashing": 3,
-    "cutting": 45,
+    "melee_damage": { "bash": 3,"cut": 45 },
     "to_hit": -1,
     "weapon_category": [ "BLADED_FARMING", "HOOKING_WEAPONRY", "POLEARMS" ]
   },
@@ -764,13 +753,12 @@
     "volume": "500 ml",
     "longest_side": "35 cm",
     "price": 500,
-    "bashing": 2,
-    "cutting": 14,
+    "melee_damage": { "bash": 2, "stab": 14 },
     "material": [ "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "qualities": [ [ "CUT", 1 ], [ "CUT_FINE", 1 ], [ "BUTCHER", 20 ] ],
-    "flags": [ "STAB", "SHEATH_KNIFE" ],
+    "flags": [ "SHEATH_KNIFE" ],
     "techniques": [ "RAPID" ],
     "weapon_category": [ "KNIVES" ]
   },
@@ -786,8 +774,7 @@
     "material": [ "steel" ],
     "symbol": "!",
     "color": "light_gray",
-    "bashing": 6,
-    "cutting": 8,
+    "melee_damage": { "bash": 6, "cut": 8 },
     "flags": [ "SHEATH_SWORD" ],
     "techniques": [ "WBLOCK_1" ],
     "weapon_category": [ "SHORT_SWORDS" ]
@@ -801,8 +788,7 @@
     "volume": "1500 ml",
     "longest_side": "165 cm",
     "price": "12 USD",
-    "bashing": 15,
-    "cutting": 16,
+    "melee_damage": { "bash": 15, "cut": 16 },
     "material": [ "kawaii_amsteel" ],
     "symbol": ";",
     "color": "dark_gray",

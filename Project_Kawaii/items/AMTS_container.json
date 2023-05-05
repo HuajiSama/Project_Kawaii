@@ -8,11 +8,11 @@
     "weight": "300 g",
     "volume": "100 ml",
     "price": "90 USD",
-    "to_hit": -4,
-    "bashing": 5,
     "material": [ "kawaii_amplastic" ],
     "symbol": "}",
     "color": "light_cyan",
+    "to_hit": -4,
+    "melee_damage": { "bash": 5 },
     "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -61,7 +61,7 @@
     "symbol": ")",
     "color": "green",
     "to_hit": -3,
-    "bashing": 4,
+    "melee_damage": { "bash": 4 },
     "pocket_data": [
       {
         "pocket_type": "CONTAINER",

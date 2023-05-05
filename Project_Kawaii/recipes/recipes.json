@@ -113,7 +113,7 @@
     "subcategory": "CSC_ARMOR_SUIT",
     "skill_used": "tailor",
     "difficulty": 0,
-    "time": 100,
+    "time": "1 h",
     "autolearn": true,
     "components": [ [ [ "plastic_chunk", 6 ] ] ]
   },
