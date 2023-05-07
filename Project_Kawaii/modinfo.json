@@ -6,7 +6,7 @@
     "authors": [ "inoue&Derp" ],
     "maintainers": [ "滑稽sama" ],
     "description": "Includes high-tech transformable melee weapons, a remotely-access store, and of course, cute outfits for maids.",
-    "category": "items",
+    "category": "content",
     "dependencies": [ "dda" ]
   }
 ]
